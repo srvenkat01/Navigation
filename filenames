@@ -1,0 +1,45 @@
+
+-------------------HOME-------------------------------
+import React from "react";
+
+const Home=()=>{
+    return(
+        <>
+           <h3>Blueberry..........</h3>   
+        </> 
+    );
+}
+export default Home;
+
+
+
+-----------------------------About--------------------------
+
+import React from "react";
+
+const About=()=>{
+    return(
+        <>
+        <h4>Madurai, kalavasal Location in Our Shop</h4>
+    
+        </>
+       
+    );
+}
+export default About;
+
+
+--------------------------------Contact--------------------------------
+import React from "react";
+
+
+const Contact=()=>{
+    return(
+        <>
+        <h3>Contact Blueberry Club</h3>
+        
+        </>
+        
+    );
+}
+export default Contact;
